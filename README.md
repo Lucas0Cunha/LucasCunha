@@ -1,4 +1,5 @@
 # projeto
+
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
@@ -17,10 +18,6 @@ Projeto gratuito, promovido pela Rocketseat para ensino .
 </p>
 
 <br>
-
-<p align="center">
-  <img alt="projeto DevLinks" src="./assets/preview.jpg" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
